@@ -1,25 +1,2 @@
 @import "fonts";
 
-body{
-    background-color: rgb(255, 254, 254);
-    span{
-        font-family: FiraCode;
-        color: coral;
-    }
-    image{
-        width: 1000px;
-        height: 300px;
-    }    
-}
-
-
-@media (max-width: 768px) {
-    span {
-    font-size: 20px;
-    }
-    }
-    @media (max-width: 768px) { ₁
-    body {
-    background-color: green;
-    }
-    }
